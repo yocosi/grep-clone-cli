@@ -1,0 +1,3 @@
+bonjour à tous
+test du cli
+rust is the best language
